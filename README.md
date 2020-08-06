@@ -10,21 +10,13 @@
 <!-- - 😄 -->
 - ⚡ Fun fact: I use tabs :slightly_smiling_face:, and detail oriented
 
-<br />
+> In doing what we ought, we deserve no praise because it is our duty
 
-### Stay in touch:
+<img align="left" alt="far1023's Github Stats" src="https://github-readme-stats.vercel.app/api?username=far1023&show_icons=true&hide_border=true" />
 
 [<img align="left" alt="profile.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][profile]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br />
-
----
-> In doing what we ought, we deserve no praise because it is our duty
----
-
-<img align="left" alt="far1023's Github Stats" src="https://github-readme-stats.vercel.app/api?username=far1023&show_icons=true&hide_border=true" />
 
 [profile]: https://far1023.github.io
 [twitter]: https://twitter.com/fuadagil

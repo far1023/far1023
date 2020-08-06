@@ -15,8 +15,7 @@
 
 <br />
 
-<img align="left" alt="far1023's Github Stats" src="https://github-readme-stats.vercel.app/api?username=far1023&show_icons=true&hide_border=true" />
-<br />
+<!-- <img align="left" alt="far1023's Github Stats" src="https://github-readme-stats.vercel.app/api?username=far1023&show_icons=true&hide_border=true" /> -->
 
 [<img align="left" alt="profile.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][profile]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]

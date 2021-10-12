@@ -21,7 +21,7 @@
 [<img align="left" alt="far1023 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.14.0/icons/twitter.svg" />][twitter]
 [<img align="left" alt="far1023 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.14.0/icons/linkedin.svg" />][linkedin]
 
-[infokom]: http://sipasti.siakkab.go.id/
+[infokom]: https://tik.siakkab.go.id/staffs/fuadagil
 [profile]: https://far1023.github.io
 [twitter]: https://twitter.com/fuadagil
 [linkedin]: https://linkedin.com/in/fuadagilr

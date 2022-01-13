@@ -3,7 +3,7 @@
 ### A superhero of myself:
 - 🔭 Currently working for [Diskominfo Kab.Siak][infokom] as Web Developer
 - 🌱 Non-stop learning every-awesome-thing
-- 👯 I’m looking to collaborate on friendly neighborhood tech idea
+- 👯 I’m looking for a collaboration on friendly neighborhood tech idea
 - ⚡ Fun fact: I use tabs :slightly_smiling_face:, and detail oriented
 <!-- - 🤔 -->
 <!-- - 💬 -->

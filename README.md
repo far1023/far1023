@@ -1,7 +1,7 @@
 ## Hi there, it's Agil waving from Riau,ID 👋
 
 ### A superhero of myself:
-- 🔭 Currently working for [Diskominfo Kab.Siak][infokom] as Web Developer
+<!-- - 🔭 Currently working for [Diskominfo Kab.Siak][infokom] as Web Developer -->
 - 🌱 Non-stop learning every-awesome-thing
 - 👯 I’m looking for a collaboration on friendly neighborhood tech idea
 - ⚡ Fun fact: I use tabs :slightly_smiling_face:, and detail oriented

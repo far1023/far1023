@@ -4,7 +4,7 @@
 <!-- - 🔭 Currently working for [Diskominfo Kab.Siak][infokom] as Web Developer -->
 - 🌱 Non-stop learning every-awesome-thing
 - 👯 I’m looking for a collaboration on friendly neighborhood tech idea
-- ⚡ Fun fact: I use tabs :slightly_smiling_face:, and detail oriented
+- ⚡ Fun fact: I use spaces :slightly_smiling_face:, and detail oriented
 <!-- - 🤔 -->
 <!-- - 💬 -->
 <!-- - 📫 -->

@@ -7,7 +7,7 @@ An ordinary man who wastes his time writing code while enjoying it so much.
 ![](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![](https://img.shields.io/badge/Tailwind-F8FAFC?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
+![](https://img.shields.io/badge/Tailwind-202937?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 <!-- <img align="left" alt="far1023's Github Stats" src="https://github-readme-stats.vercel.app/api?username=far1023&show_icons=true&hide_border=true" /> -->
 

@@ -11,6 +11,7 @@ An ordinary man who wastes his time writing code while enjoying it so much.
 
 <!-- <img align="left" alt="far1023's Github Stats" src="https://github-readme-stats.vercel.app/api?username=far1023&show_icons=true&hide_border=true" /> -->
 
+### Contact:
 [<img src="https://img.shields.io/badge/website-07405E?style=for-the-badge&logo=About.me&logoColor=white" />][profile]
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][gmail]
